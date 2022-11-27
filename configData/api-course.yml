@@ -5,9 +5,9 @@ spring:
     name: api-course
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/digitalhousedev
-    username: root
-    password: 29031999
+    url: jdbc:mysql://localhost:3306/digitalhousedev #jdbc:mysql://localhost:3306/digitalhouse-dev
+    username: root #usr-digitalhouse
+    password: 29031999 #pwd-digitalhouse
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true

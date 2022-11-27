@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/VictoriaMRamirez/PracticaIntegradorBack
+          uri: https://github.com/VictoriaMRamirez/PracticaIntegradorBack #https://github.com/jonathanvictoricadh/esp-back-1-202210-integrador
           default-label: gateway-seguridad
           force-pull: true
           search-paths: configData
