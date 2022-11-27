@@ -5,7 +5,7 @@ spring:
     name: api-student
   datasource:
     driverClassName: com.mysql.jdbc.Driver
-    url: jdbc:mysql://localhost:3306/student
+    url: jdbc:mysql://localhost:3306/digitalhouse-dev
     username: root
     password: 29031999
   jpa:

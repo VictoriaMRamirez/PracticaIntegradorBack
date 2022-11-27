@@ -9,6 +9,6 @@ spring:
       server:
         git:
           uri: https://github.com/VictoriaMRamirez/PracticaIntegradorBack
-          default-label: master
+          default-label: gateway-seguridad
           force-pull: true
           search-paths: configData
