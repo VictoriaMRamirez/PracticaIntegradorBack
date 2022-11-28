@@ -30,8 +30,8 @@ spring:
             issuer-url: https://accounts.google.com
           registration:
             google:
-              client-id: 114009317421-ivc3t4b30pve6u5jjsvbnal3lb8f5q2m.apps.googleusercontent.com
-              client-secret: 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
+              client-id: 552889245564-03s2mfimec7bnv9kceks8dr4ivti5fvg.apps.googleusercontent.com
+              client-secret: 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
               scope: openid
               redirect_uri: http://localhost:8080/login/oauth2/code/google
 
